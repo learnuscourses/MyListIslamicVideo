@@ -1,0 +1,27 @@
+
+<!--suppress ALL -->
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="backgroundColor">@color/backgroundLight</item>
+        <item name="textColor">@color/backgroundNight</item>
+        <item name="cardBackgroundColorRecItemMain">@color/colorPrimaryDark</item>
+        <item name="backgroundLayout">@color/colorPrimaryDark</item>
+
+
+
+    </style>
+//////////////////**DarkMode*********************
+    <style name="AppThemeNightMode" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryNight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>
+        <item name="colorAccent">@color/colorAccentNight</item>
+        <item name="backgroundColor">@color/backgroundNight</item>
+        <item name="textColor">@color/backgroundLight</item>
+        <item name="cardBackgroundColorRecItemMain">@color/backgroundNight</item>
+        <item name="backgroundLayout">@color/colorAccentNight</item>
+
+    </style>
+</resources>

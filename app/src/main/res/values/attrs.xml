@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<resources>
+
+    <declare-styleable name="myattrs">
+      <attr name="backgroundColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="cardBackgroundColor" format="color"/>
+        <attr name="tintColor" format="color"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="cardBackgroundColorRecItemMain" format="color"/>
+        <attr name="cardBackgroundColorRecItemTwo" format="color"/>
+        <attr name="backgroundPage" format="color"/>
+        <attr name="backgroundLayout" format="color"/>
+
+
+
+
+
+
+
+
+
+
+
+
+    </declare-styleable>
+
+
+
+
+</resources>
